@@ -1,9 +1,9 @@
 # Practicum_project_5
- My fifth project from Practicum course
+ My fifth project from Practicum course. "Integrated Project #1. Analysis for video games store"
 
 What was used in the project: Python, Jupyter notebook. Libraries: pandas, numpy, scipy, matplotlib, seaborn.
 
-Project Description
+# Project Description
 
 I work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. I need to identify patterns that determine whether a game succeeds or not. This will allow me to spot potential big winners and plan advertising campaigns.<br/>
 The data going back to 2016. Let’s imagine that it’s December 2016 and I'm planning a campaign for 2017.<br/>
